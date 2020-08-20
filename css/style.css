@@ -23,7 +23,7 @@ p:only-child{
     color: yellow;
 }
 .text-box > div + h3 + p {
-    color: green;
+    color: lightgreen;
 }
 .bg-box{
     width: 600px;
