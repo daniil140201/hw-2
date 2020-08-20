@@ -8,7 +8,7 @@ a[href^="https"]{
     background-color: green;
 }
 ul + p {
-    font-size: 26px;
+    font-size: 25px;
 }
 h3:first-child{
     color: pink;
